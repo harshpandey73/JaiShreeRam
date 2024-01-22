@@ -4,7 +4,7 @@ import { useNavigate } from "react-router-dom";
 function Input() {
     const inputRef = useRef(null);
     const id = useId();
-    const [name, setName] = useState("");
+    const [name, setName] = useState("You");
     const navigate = useNavigate();
     
     function handleClick (){ 
