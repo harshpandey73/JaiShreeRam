@@ -15,6 +15,7 @@ Tech Stacks used: React + Tailwind
 
 **AI:** Gemini API
 
+**Diya Animation:** [CSS Diya Animation](https://codingartistweb.com/2021/11/diya-css-animation-diwali-special/)
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshpandey73/)
