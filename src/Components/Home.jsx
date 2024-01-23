@@ -17,8 +17,8 @@ export default function Home() {
           className="w-0 sm:w-[100%] sm:h-screen z-20 "
         />
 
-        <div className="text-center absolute left-[50%] top-[85%] -translate-y-2/4 -translate-x-2/4 h-fit bg-gradient-to-r from-amber-200 to-yellow-500 bg-clip-text text-transparent">
-          <span className="mText text-[2.5rem] sm:text-[5rem] font-extrabold ">
+        <div className="text-center absolute left-[50%] top-[7%] sm:top-[85%] -translate-y-2/4 -translate-x-2/4 h-fit bg-gradient-to-r from-amber-200 to-yellow-500 bg-clip-text text-transparent w-[100%]">
+          <span className="mText text-[3rem] sm:text-[5rem] font-extrabold leading-normal ">
             जय श्री राम
           </span>
         </div>
