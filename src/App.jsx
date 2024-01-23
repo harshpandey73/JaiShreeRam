@@ -1,13 +1,14 @@
 import React from 'react'
-// import End from './Components/End'
 import Home from './Components/Home'
+import ParticlesBg from './Components/Particles/ParticlesBg'
 
 function App() {
 
   return (
-    // <div className='bg-gradient-to-t from-orange-500 to-slate-50 h-screen'>
+    <>
     <Home/>
-    // </div>
+    <ParticlesBg />
+    </>
   )
 }
 
